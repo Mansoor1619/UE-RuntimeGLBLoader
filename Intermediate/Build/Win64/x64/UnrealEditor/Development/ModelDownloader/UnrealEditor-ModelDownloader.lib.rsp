@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ModelDownloader.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\VideoDownloader\Intermediate\Build\Win64\x64\VideoDownloaderEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"D:\VideoDownloader\Plugins\ModelDownloader\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelDownloader\Module.ModelDownloader.cpp.obj"
+"D:\VideoDownloader\Plugins\ModelDownloader\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelDownloader\ModelDownloaderLibrary.cpp.obj"
+"D:\VideoDownloader\Plugins\ModelDownloader\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelDownloader\ModelDownloaderModule.cpp.obj"
+"D:\VideoDownloader\Plugins\ModelDownloader\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelDownloader\Default.rc2.res"
+/OUT:"D:\VideoDownloader\Plugins\ModelDownloader\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModelDownloader\UnrealEditor-ModelDownloader.lib"

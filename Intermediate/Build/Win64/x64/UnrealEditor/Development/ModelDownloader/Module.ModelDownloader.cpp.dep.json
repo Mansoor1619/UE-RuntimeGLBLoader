@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\videodownloader\\plugins\\modeldownloader\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modeldownloader\\module.modeldownloader.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\videodownloader\\intermediate\\build\\win64\\x64\\videodownloadereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\videodownloader\\plugins\\modeldownloader\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modeldownloader\\definitions.modeldownloader.h",
+            "d:\\videodownloader\\plugins\\modeldownloader\\intermediate\\build\\win64\\unrealeditor\\inc\\modeldownloader\\uht\\modeldownloader.init.gen.cpp",
+            "d:\\videodownloader\\plugins\\modeldownloader\\intermediate\\build\\win64\\unrealeditor\\inc\\modeldownloader\\uht\\modeldownloaderlibrary.gen.cpp",
+            "d:\\videodownloader\\plugins\\modeldownloader\\source\\modeldownloader\\public\\modeldownloaderlibrary.h",
+            "d:\\videodownloader\\plugins\\modeldownloader\\intermediate\\build\\win64\\unrealeditor\\inc\\modeldownloader\\uht\\modeldownloaderlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

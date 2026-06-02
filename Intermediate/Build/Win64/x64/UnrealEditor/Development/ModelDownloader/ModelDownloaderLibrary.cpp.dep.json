@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\videodownloader\\plugins\\modeldownloader\\source\\modeldownloader\\private\\modeldownloaderlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\videodownloader\\intermediate\\build\\win64\\x64\\videodownloadereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\videodownloader\\plugins\\modeldownloader\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modeldownloader\\definitions.modeldownloader.h",
+            "d:\\videodownloader\\plugins\\modeldownloader\\source\\modeldownloader\\public\\modeldownloaderlibrary.h",
+            "d:\\videodownloader\\plugins\\modeldownloader\\intermediate\\build\\win64\\unrealeditor\\inc\\modeldownloader\\uht\\modeldownloaderlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltfreader.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltflogger.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltfasset.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltfanimation.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltfmaterial.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltfmesh.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltfaccessor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltfnode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltftexture.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\interchange\\runtime\\source\\parsers\\gltfcore\\public\\gltfmeshfactory.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\staticmeshdescription\\public\\staticmeshattributes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\meshdescription\\public\\meshattributes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

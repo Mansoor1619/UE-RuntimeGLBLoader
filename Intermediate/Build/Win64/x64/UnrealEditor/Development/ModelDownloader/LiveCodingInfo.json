@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ModelDownloader.cpp.obj": [
+			"ModelDownloader.init.gen.cpp.obj",
+			"ModelDownloaderLibrary.gen.cpp.obj",
+			"ModelDownloaderLibrary.cpp.obj",
+			"ModelDownloaderModule.cpp.obj"
+		]
+	}
+}
